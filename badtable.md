@@ -1,4 +1,10 @@
-
-`ag`     | `nak`    | `ack`     | `grep`
----------|----------|-----------|---------
-34.609s  | 29.327s  | 88.883s   | 256.14s|asdadsad|asdadsasdasd
+``` javascript
+class HelloWorld
+   def initialize(name)
+      @name = name.capitalize
+   end
+   def sayHi
+      puts "Hello #{@name}!"
+   end
+end
+```
