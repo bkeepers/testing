@@ -1,7 +1,6 @@
 * first li 
-<div><div>
 * second li 
-</article></div></div>
+</article>
 Then anything you type from that line will be out of the legitimate file viewer window
 
 
