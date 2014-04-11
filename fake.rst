@@ -1,9 +1,4 @@
-Here's an example from https://github.com/Pylons/pyramid/blob/master/docs/quick_tour.rst that looks fine on github.com but is invisible for us:
+Here is a citation reference: [CIT2002]_.
 
-
-.. code-block:: python
-
-    config.include('pyramid_jinja2')
-
-
-Note that other features of rst do render, like ``emphasis``.
+.. [CIT2002] This is the citation.  It's just like a footnote,
+   except the label is textual.
