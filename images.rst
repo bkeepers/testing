@@ -1,4 +1,8 @@
-|Build Status| |Coverage Status| |PyPI Version| |PyPI Downloads| |Wheel Status|
+|Build Status| 
+
+|Coverage Status| 
+
+|PyPI Version| |PyPI Downloads| |Wheel Status|
 
 Brownant
 ========
