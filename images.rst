@@ -1,7 +1,11 @@
 |Build Status| 
+
 |Coverage Status| 
+
 |PyPI Version| 
+
 |PyPI Downloads| 
+
 |Wheel Status|
 
 .. |Build Status| image:: https://travis-ci.org/douban/brownant.svg?branch=master,develop
