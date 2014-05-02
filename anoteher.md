@@ -4,8 +4,3 @@
 * cairo
 * pango
 * pangocairo
-
-
-* On a Mac, pretty much everything can be installed via Homebrew.
-* On a *nix machine, I'm sure it's possible via package managers to install all of these.
-* On a Windows machine, I have no idea.
